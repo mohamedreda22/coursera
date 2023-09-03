@@ -1,0 +1,45 @@
+# Contribution Guidelines
+
+Welcome to our open-source project! We appreciate your interest in contributing. To maintain a collaborative and inclusive environment, please follow these guidelines when creating issues or pull requests.
+
+## Creating Good Issues
+
+When creating issues, please provide as much detail as possible, including:
+
+1. **Title**: A clear and concise title that summarizes the issue.
+2. **Description**: A detailed description of the problem or feature request.
+3. **Steps to Reproduce (if applicable)**: If it's a bug, provide steps to reproduce the issue.
+4. **Expected Behavior**: Describe what you expect to happen.
+5. **Actual Behavior**: Explain what currently happens.
+6. **Screenshots or Examples**: If applicable, include screenshots, code snippets, or examples.
+
+## Creating Pull Requests
+
+Before submitting a pull request, make sure to:
+
+1. **Fork the Repository**: Fork the repository to your own GitHub account.
+2. **Create a New Branch**: Create a new branch for your changes.
+3. **Commit Descriptively**: Write clear and concise commit messages.
+4. **Test Your Changes**: Ensure that your code works as expected.
+5. **Documentation**: Update documentation, if necessary.
+6. **Follow Coding Standards**: Adhere to the project's coding style guidelines.
+7. **Create a Pull Request**: Submit your pull request to the main repository.
+
+## Additional Resources
+
+For more information on contributing, you can refer to the following resources:
+
+- [Project Documentation](https://link-to-your-docs.com): Check our documentation for project-specific guidelines and tips.
+- [Mailing List](https://link-to-mailing-list.com): Join our mailing list for discussions and announcements.
+- [Code of Conduct](CODE_OF_CONDUCT.md): Read and adhere to our code of conduct to maintain a respectful and welcoming community.
+
+## Community and Behavioral Expectations
+
+We value a diverse and inclusive community. Please adhere to the following behavioral expectations:
+
+- Be respectful and considerate of others' opinions and contributions.
+- Avoid offensive language, personal attacks, and harassment.
+- Foster a welcoming and supportive environment for all participants.
+- Follow the project's code of conduct (linked above).
+
+Thank you for contributing to our project, and we look forward to collaborating with you!
